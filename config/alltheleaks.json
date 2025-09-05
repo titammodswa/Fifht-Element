@@ -1,0 +1,7 @@
+{
+  "ingredientDedupe": false,
+  "debugItemStackModifications": false,
+  "version": 1,
+  "debugNativeImage": false,
+  "disableSearchTree": false
+}
